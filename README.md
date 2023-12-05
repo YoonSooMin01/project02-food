@@ -1,4 +1,4 @@
-# Project-Perfume
+# Project-Food
 어린이 음식 교육용 AI 사진 인식 사이트 
 
 
