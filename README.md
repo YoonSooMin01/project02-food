@@ -24,27 +24,27 @@
 
 
 ## 📌 주요 기능
-#### Main - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Main)" >상세보기 - WIKI 이동</a>
+#### Main 
 - 메인 페이지(Survey, Shop)
 - 소개 페이지
   
-#### Board - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Board)" >상세보기 - WIKI 이동</a>
+#### Board
 - 공지사항
 - 이벤트
   
-#### Shop - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Shop)" >상세보기 - WIKI 이동</a>
+#### Shop 
 - 상품 페이지
 - 상품 상세 페이지
   
-#### Member - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### Member 
 - 회원가입
 - 로그인
 - 마이페이지
   
-#### Survey - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Survey)" >상세보기 - WIKI 이동</a>
+#### Survey 
 - 설문페이지
   
-#### Order - <a href="https://github.com/YoonSooMin01/project01-perfume/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Order)" >상세보기 - WIKI 이동</a>
+#### Order
 - 주문
 - 주문내역
 - 주문상세
